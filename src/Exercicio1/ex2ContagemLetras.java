@@ -1,10 +1,9 @@
 
 package Exercicio1;
 
-public class ContagemLetras {
+public class ex2ContagemLetras {
     
     public static void main(String[] args) {
-        System.out.println("Olá mundãoo");
+        
     }
-    
 }
